@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/MMORPG-Ready-F1C40F?style=flat-square" alt="MMORPG">
 </p>
 
-<img width="1280" height="640" alt="image" src="" />
-
 <p align="center">
   <a href="#-download">📥 Download</a> •
   <a href="#-installation">⚙️ Installation</a> •
